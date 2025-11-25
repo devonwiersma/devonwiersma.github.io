@@ -8,7 +8,7 @@ permalink: /Portfolio
 
 ## **Various Projects, Dev’s Games**
 ### Solo Developer (2020 - Present)
-###### [Click to view my independent works](https://www.devonwiersma.games/independent-work) 
+###### [My Steam](https://store.steampowered.com/developer/devsgames) | [My Itchio](https://www.devonwiersma.games/independent-work) 
 
 - *Self-published* and *solo developed* **six** digital and non-digital games. 
 - Independently planned, designed, documented, marketed my own games of a *variety of genres*.
