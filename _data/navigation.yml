@@ -7,6 +7,6 @@ main:
   - title: "About"
     url: /
   - title: "Blog"
-    url: /Blog
+    url: /blog
   - title: "Resume"
     url: /Resume
