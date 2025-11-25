@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Devon Wiersma"
+  avatar           : "/assets/images/AboutMe_Photo1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Senior Level Designer and Game Developer"
+  location         : "Toronto, ON, Canada"
+  email            : "devonwiersma8@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:devonwiersma8@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -159,7 +159,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2025"
 
 
 # Reading Files
@@ -167,6 +167,7 @@ include:
   - .htaccess
   - _pages
   - /assets/images/
+  - /assets/files/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -321,9 +322,14 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+
+collections:
+  Projects:
+    people: photography
 

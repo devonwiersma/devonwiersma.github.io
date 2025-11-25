@@ -12,7 +12,7 @@ I'm an award-winning, **Toronto-based level designer and game developer**. I gra
 
 *​English* is my native language, but I also speak fluent *Pig-Latin* as well as some essential *French*. I know how to read the Korean alphabet too (I just might not be able to tell you what it means).
 
-In my free time I have too many hobbies to count, including (but not exclusive to): Photography, Illustration, 3D Printing, Electronics and Streaming!
+In my free time I have too many hobbies to count, including (but not exclusive to): *Photography, Illustration, 3D Printing, Electronics and Streaming*!
 
 You can Feel free to reach out and let's have a chat :)
 
