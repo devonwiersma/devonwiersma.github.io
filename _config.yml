@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" #"air", "aqua", "contrast", "dark", "dirt",
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Devon's"
+title                    : "Devon's Site"
 title_separator          : "-"
 subtitle                 : "A site full of wonder" # site tagline that appears below site title in masthead
-name                     : "Devon"
-description              : "WOW a website."
+name                     : "Devon Wiersma"
+description              : "Where the wild things went."
 url                      : "https://devonwiersma.github.io" # the base hostname & protocol for your site e.g. "https://devonwiersma.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "devonwiersma/devonwiersma.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -166,6 +166,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /assets/images/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -322,6 +323,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+
