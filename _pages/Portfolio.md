@@ -12,7 +12,7 @@ permalink: /Portfolio
 
 - *Self-published* and *solo developed* **six** digital and non-digital games. 
 - Independently planned, designed, documented, marketed my own games of a *variety of genres*.
-- Ran and delivered a *sucessfully funded Kickstarter* independently.
+- Ran and delivered a *successfully funded Kickstarter* independently.
 
 
 <br>
