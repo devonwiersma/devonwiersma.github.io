@@ -12,6 +12,8 @@ defaults:
       share: true
       related: true
 
+      og_image: "/assets/images/BeansLogo.png"
+
 title:  "New Blog, New Me?"
 ---
 
