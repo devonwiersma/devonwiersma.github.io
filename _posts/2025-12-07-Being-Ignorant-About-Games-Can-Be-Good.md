@@ -83,9 +83,7 @@ The magical part of this approach to direction is that - just like anyone who ac
 
 They say "assuming makes an '<span style="color:red">ass</span> out of <span style="color:red">u</span> and <span style="color:red">me</span>'.
 
-So just be lax about making assumptions about your genre, because sometimes a lot of good can come out of being <span style="color:red">wrong</span>.
-
-So make assumptions. A lot of them.
+So go crazy and make an ass out of yourself! Make assumptions! A lot of them! Get messy for a while!
 
 Assume that your first thought about a game or style of game is true. Believe that the way you think your genre works must, in fact, be how these games work. Assume your first approach is the right one, or that the feature probably works a certain way in all these types of games. Don't bother looking at a reference for it or sanity check yourself at first. You're probably right. Write it down, move on, and come back to it later when something gets flagged in playtesting.
 
