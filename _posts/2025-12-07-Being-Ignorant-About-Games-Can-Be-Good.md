@@ -49,9 +49,11 @@ Anyway I could talk all day about how I dislike leaning on genre, but I want to 
 ### I noticed recently
 that when I make my own games I have a tendency to simultaneously adopt these two very opposite, yet complimentary, approaches. And I find they work well together!
 
-On one hand I try to <span style="color:red">Ignorant Designer</span> when it comes to the direction of my games; I often decide to make games of genres I have virtually no experience with - and often ones that I have zero interest in playing at all.
+On one hand I try to <span style="color:red">Ignorant Design</span> when it comes to the direction of my games; I often decide to make games of genres I have virtually no experience with - and often ones that I have zero interest in playing at all.
 
 On the other hand, I try to embody the <span style="color:aquamarine">Informed Designer</span> when it comes to approaching tangible design problems, because the first thing I do when encountering these is to reference those similar games and genres to see how they solve their problems.
+
+In this way, <span style="color:red">Ignorance</span> is helpful when you're using it to establish and chase your game's *direction*, but staying <span style="color:aquamarine">Informative</span> is important when *designing* your game.
 
 ### First, the <span style="color:red">Ignorant Designer</span>
 
