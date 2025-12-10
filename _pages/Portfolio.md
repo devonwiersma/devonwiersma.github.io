@@ -16,6 +16,31 @@ permalink: /Portfolio
 
 
 <br>
+<img src="/assets/images/HeartThief01.png" alt="A screenshot of a man in black and white, standing in an office in an interrogation style scene." style="width:500px;height:300px; border: 5px solid #ffffff; float:right; margin: 25px">
+
+## **Heart/Thief (Prototype), CatSamurai Games**
+### Lead Game Developer (2024-2025)
+###### [Studio Website](https://www.catsamuraigames.com/) 
+
+- *Lead the development* of a playable prototype to secure publisher funding alongside a small team.
+- Implemented a *fully-playable* gameplay slice complete with *stealth mechanics*, *gameplay challenges*, and *narrative progression*.
+
+<br>
+
+<br>
+<img src="/assets/images/BeansLogo.png" alt="An image that says The Beans Team: A Video Game Company in a stylized font." style="width:500px;height:300px; border: 5px solid #ffffff; float:right; margin: 25px">
+
+## **Heart/Thief (Prototype), CatSamurai Games**
+### Lead Game Developer (2024-2025)
+###### [Studio Website](https://www.thebeansteam.com/) 
+
+- Lead the development of a playable prototype to secure publisher funding alongside a small team.
+- Coordinated alongside a small team and implemented a fully-playable gameplay slice complete with stealth mechanics, gameplay challenges, and narrative progression.
+
+<br>
+
+
+<br>
 <img src="/assets/images/BeansLogo.png" alt="An image that says The Beans Team: A Video Game Company in a stylized font." style="width:500px;height:300px; border: 5px solid #ffffff; float:right; margin: 25px">
 
 ## **Unreleased Project, The Beans Team**
