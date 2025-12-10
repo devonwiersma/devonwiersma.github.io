@@ -16,7 +16,7 @@ permalink: /Portfolio
 
 
 <br>
-<img src="/assets/images/HeartThief01.png" alt="A screenshot of a man in black and white, standing in an office in an interrogation style scene." style="width:450px;height:300px; border: 5px solid #ffffff; float:right; margin: 25px">
+<img src="/assets/images/HeartThief01.png" alt="A screenshot of a man in black and white, standing in an office in an interrogation style scene." style="width:500px;height:300px; border: 5px solid #ffffff; float:right; margin: 25px">
 
 ## **Heart/Thief (Prototype), CatSamurai Games**
 ### Lead Game Developer (2024-2025)
