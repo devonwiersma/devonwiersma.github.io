@@ -108,6 +108,8 @@ And we're seeing a lot of weird, useless direct integrations of AI in games thes
 
 While I think this is far from the most egregious use of AI, it just feels so obvious to me that a decision like this speaks largely to a design failure that also undercut voice actors, rather than any kind of innovative application of a tech already desperately struggling to find a useful place in games. 🤷
 
+### Ok Bye!
+
 <br>
 
 <br>
