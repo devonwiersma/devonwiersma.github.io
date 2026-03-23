@@ -62,12 +62,12 @@ You can click on any image to see the larger version of it. All illustrations ar
 
 # QUICK LINKS
 Use these to jump to a character!
-1. <a href="https://www.w3schools.com/">Lump Girl</a><br>
-2. <a href="https://www.w3schools.com/">Vivienne LaChance</a><br>
-3. <a href="https://www.w3schools.com/">Bobette</a><br>
-4. <a href="https://www.w3schools.com/">Aelwynn</a><br>
-5. <a href="https://www.w3schools.com/">Tillie</a><br>
-6. <a href="https://www.w3schools.com/">Vicori</a><br>
+1. <a href="https://www.devonwiersma.games/oc-gallery#-lumps-">Lump Girl</a><br>
+2. <a href="https://www.devonwiersma.games/oc-gallery#-vivienne-lachance-">Vivienne LaChance</a><br>
+3. <a href="https://www.devonwiersma.games/oc-gallery#-bobette-">Bobette</a><br>
+4. <a href="https://www.devonwiersma.games/oc-gallery#-aelwynn-">Aelwynn</a><br>
+5. <a href="https://www.devonwiersma.games/oc-gallery#-tillie-">Tillie</a><br>
+6. <a href="https://www.devonwiersma.games/oc-gallery#-vicori-">Vicori</a><br>
 
 <hr>
 <br>
