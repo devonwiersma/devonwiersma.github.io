@@ -68,6 +68,7 @@ Use these to jump to a character!
 4. <a href="https://www.devonwiersma.games/oc-gallery#-aelwynn-">Aelwynn</a><br>
 5. <a href="https://www.devonwiersma.games/oc-gallery#-tillie-">Tillie</a><br>
 6. <a href="https://www.devonwiersma.games/oc-gallery#-vicori-">Vicori</a><br>
+7. <a href="https://www.devonwiersma.games/oc-gallery#-charlie-">Charlie</a><br>
 
 <hr>
 <br>
@@ -367,6 +368,33 @@ Now, Lady Vicori has noticed herself having become a different woman since she r
 Nowadays she prefers a book and a warm blanket to the crossing of swords, or the silence of her estate on a rainy night to the echoes of a cold dungeon. She's grown much colder and haughty than she ever used to be, but she insists she is happy.
 
 That said, on some nights she admires her old adventuring memorabilia, and the prospect of picking it up again and marching off into the night doesn't sound like such a bad idea.
+
+<br>
+<hr>
+<br>
+
+# --- Charlie ---
+<div class="gallery">
+
+<div class="gallery-item">
+  <a target="_blank" href="/assets/images/OCs/Charlie1.png">
+    <img src="/assets/images/OCs/Charlie1.png" alt="Charlie1" width="600" height="400">
+  </a>
+  <div class="desc">Charlie (Right)</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="/assets/images/OCs/Charlie2.png">
+    <img src="/assets/images/OCs/Charlie2.png" alt="Charlie2" width="600" height="400">
+  </a>
+  <div class="desc">Charlie</div>
+</div>
+</div>
+<br>
+
+### About
+
+Coming soon...
 
 <br>
 <hr>
