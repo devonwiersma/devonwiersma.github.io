@@ -1,0 +1,58 @@
+---
+---
+/*^^^^^ These lines need to be here for the site format to work (idk why) ^^^^^^ */
+
+/*vvvvvv this is just here so errors aren't called due to the format of the lines above vvvvv*/
+.d{
+    $link-color: rgb(255, 0, 0);
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+$link-color: blue;
+$sans-serif: Grandstander;
+
+$body-color: #ffffff;
+$background-color: #000000;
+$text-color: #ffffff;
+$link-color: #3bbee2;
+$masthead-link-color: rgb(255, 200, 0);
+
+$footer-background-color: #000000;
+
+$doc-font-size: 20px;
+
+b,strong{
+    color: rgb(255, 200, 0);
+    font-weight: bolder;
+}
+
+h1, h2, h3, h4, h5{
+    color: rgb(255, 226, 122);
+}
+
+em{
+    color: rgb(255, 226, 122);
+}
+
+@import "minimal-mistakes"; // main partials
+
+html {
+    font-size: 14px; // change to whatever
+    font-weight: normal;
+  
+    @include breakpoint($medium) {
+      font-size: 16px; // change to whatever
+      font-weight: normal;
+    }
+  
+    @include breakpoint($large) {
+      font-size: 18px; // change to whatever
+      font-weight: normal;
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 20px; // change to whatever
+      font-weight: normal;
+    }
+  }
