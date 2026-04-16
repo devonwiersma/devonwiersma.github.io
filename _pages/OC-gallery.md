@@ -178,7 +178,7 @@ Also known as "Lump Girl" based on how lumpy she turned out when I drew her on t
 
 Born in a poor village, she lost her mother at a young age and was raised by a deadbeat father. Learning she was skilled at magic as a girl, she left home and traveled the realm performing odd adventuring jobs, and quickly becoming one of the more accomplished adventurers in the realm.
 
-Unfortunately her family name caught up to her, and all her fortune she had amassed on her own was rapidly spent paying off her ailing father's massive gambling debts. With a sudden need for a steady income to continue paying off her financial burden, her old 'friend' <a href="https://www.devonwiersma.games/oc-gallery#-bobette-">Bobette</a> found her a position teaching at Potts School of Witchcraft in the Dark Arts Department.
+Unfortunately her family name caught up to her, and all her fortune she had amassed on her own was rapidly spent paying off her ailing father's massive gambling debts. With a sudden need for a steady income to continue paying off her financial burden, her old 'friend' <a href="https://www.devonwiersma.games/oc-gallery#-bobette-">Bobette</a> found her a position teaching at Pott's School of Witchcraft in the Dark Arts Department.
 
 A solitary and emotionally cold woman, she finds teaching a draining activity. She is not particularly patient or tolerant of her students - in fact, she eagerly awaits the day her family's debt is paid off once and for all and she can leave the teaching world behind and return to her proper place - at the bottom of a dusty old dungeon. Alone.
 
@@ -217,7 +217,7 @@ A solitary and emotionally cold woman, she finds teaching a draining activity. S
 
 The young Bobette lived an incredibly privilged life; the daughter of a family of low-nobility, she enrolled in Pott's School of Witchcraft dreaming one day of becoming the strongest and most powerful mage known to man.
 
-Unfortunately for Bobette, magical aptitude is something money *can't* easily buy, and despite trying her hardest she struggled all throughout her schooling. It wasn't until an chance encounter with <a href="https://www.devonwiersma.games/oc-gallery#-vivienne-lachance-">Vivienne</a><br> did she realize what those with true skill in magic were capable of. A poor magician but a talented student, she took the lesson to heart: She didn't need to be the *best* mage, and there was no shame in simply being a competent one. And so, she settled upon chasing a more modest form of magic more accessible to the masses: Alchemy.
+Unfortunately for Bobette, magical aptitude is something money *can't* easily buy, and despite trying her hardest she struggled all throughout her schooling. It wasn't until an chance encounter with <a href="https://www.devonwiersma.games/oc-gallery#-vivienne-lachance-">Vivienne</a> did she realize what those with true skill in magic were capable of. A poor magician but a talented student, she took the lesson to heart: She didn't need to be the *best* mage, and there was no shame in simply being a competent one. And so, she settled upon chasing a more modest form of magic more accessible to the masses: Alchemy.
 
 After years of study she now teaches at the Pott's School of Witchcraft, teaching the basics of Alchemy to students. She's somewhat of an airhead, often found dropping potions, misplacing ingredients, and accidentally causing an unwanted explosion or two; there's a saying that if you've survived Bobette's class you can survive anything.
 
@@ -403,7 +403,9 @@ That said, on some nights she admires her old adventuring memorabilia, and the p
 
 ### About
 
-Coming soon...
+Charlie is a trans girl who learned she was attuned to magic at a young age. Coming from an impovershed family she was scouted by Pott's School of Magic to learn the art of witchcraft. A small and wirey girl, she's not the bravest or most confident magician out there, but she's proven to be an incredibly fast learner and with a near prodigal aptitude for picking up the nuances of the craft - when she does apply herself her abilities are second to none.
+
+However, this potential has caused her to be a threat by forces unknown, who seem determined to put a stop to her before she realizes her true potential.
 
 <br>
 <hr>
