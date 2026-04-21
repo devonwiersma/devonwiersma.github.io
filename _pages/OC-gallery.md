@@ -112,6 +112,13 @@ Use these to jump to a character!
   <div class="desc">Lumps 5</div>
 </div>
 
+<div class="gallery-item">
+  <a target="_blank" href="/assets/images/OCs/Commissions/Lumps - Recoverm_(recov3r).png">
+    <img src="/assets/images/OCs/Commissions/Lumps - Recoverm_(recov3r).png" alt="Lumps by (Recov3r)" width="600" height="400">
+  </a>
+    <div class="desc"><a href="https://recoverhq.carrd.co/">Art by Recov3r</a></div>
+</div>
+
 </div>
 
 <br>
