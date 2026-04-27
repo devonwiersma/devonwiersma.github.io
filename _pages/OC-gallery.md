@@ -405,6 +405,12 @@ That said, on some nights she admires her old adventuring memorabilia, and the p
   </a>
   <div class="desc">Charlie</div>
 </div>
+<div class="gallery-item">
+  <a target="_blank" href="/assets/images/OCs/Commissions/Charlie - Pidge(dozebugs).png">
+    <img src="/assets/images/OCs/Commissions/Charlie - Pidge(dozebugs).png" alt="Charlie3" width="600" height="400">
+  </a>
+  <div class="desc"><a href="https://vgen.co/dozebugs">Art by Pidge (DozeBugs)</a></div>
+</div>
 </div>
 <br>
 
