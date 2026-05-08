@@ -119,6 +119,13 @@ Use these to jump to a character!
     <div class="desc"><a href="https://recoverhq.carrd.co/">Art by Recov3r</a></div>
 </div>
 
+<div class="gallery-item">
+  <a target="_blank" href="/assets/images/OCs/Commissions/Lumps - Alina Wahab.png">
+    <img src="/assets/images/OCs/Commissions/Lumps - Alina Wahab.png" alt="Lumps by Alina Wahab" width="600" height="400">
+  </a>
+    <div class="desc"><a href="https://alinawillustrates.weebly.com/">Art by Alina Wahab</a></div>
+</div>
+
 </div>
 
 <br>
