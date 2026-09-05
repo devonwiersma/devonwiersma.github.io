@@ -1,4 +1,5 @@
 ---
+hidden: true
 defaults:
   # _posts
   - scope:
