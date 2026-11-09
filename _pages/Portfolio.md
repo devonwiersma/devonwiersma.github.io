@@ -43,16 +43,16 @@ permalink: /Portfolio
 
 <br>
 
-<img src="/assets/images/BeansLogo.png" alt="An image that says The Beans Team: A Video Game Company in a stylized font." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
+<img src="/assets/images/Project_SS_Image.png" alt="An image that says The Beans Team: A Video Game Company in a stylized font." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
 
 ## **Cancelled Project, The Beans Team**
 ### Sr. Level Designer (2021 - 2023)
 ###### [Studio Website](https://www.thebeansteam.com/) 
 
-- Worked on a cancelled *first person combat* game in partnership with *Devolver Digital*.
-- *Designed layouts*, *modelled geometry* and *scripted combat encounters* in an *Unreal Engine* game.
-- Lead the design and *outlined level design direction* of various gameplay prototypes.
-- Assisted in the development of *core gameplay systems and production pipelines*.
+- Designed levels in an *Unreal Engine* game in partnership with *Devolver Digital*.
+- Lead the design and *established level design direction* of various gameplay spaces.
+- *Designed layouts*, *modelled geometry*, *designed lighting* and iterated on levels around a *unique combat mechanic*.
+- Coordinated the development of *core gameplay systems and production pipelines*.
 
 <br>
 <img src="/assets/images/FC6Screen_01.jpg" alt="A screenshot from Far Cry 6. The camera is in first person and depicts a soldier being burned by a flame thrower while standing in a field." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
@@ -66,17 +66,17 @@ permalink: /Portfolio
 - Implemented gameplay sequences and AI encounters with *proprietary visual scripting* software.
 
 <br>
-<img src="/assets/images/Riverbond.jpg" alt="A screenshot of a cartoon rabbit character modelled out of voxels. They are holding up a sword against a blue sky with a chicken behind them." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
+<img src="/assets/images/Riverbond_Screenshot_04.png" alt="A screenshot of a cartoon rabbit character modelled out of voxels. They are holding up a sword against a blue sky with a chicken behind them." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
 
 ## **Riverbond, Cococucumber**
 ### Level Designer (2017)
 ###### [Game Site](https://cococucumber.co/riverbond/) 
 
-- Designed *isometric, non-linear levels* on a *multiplayer* game targetting a *casual* audience.
+- Designed *isometric, non-linear levels* on a *multiplayer* game targetting a *casual* audience for PC and consoles.
 - Riverbond won numerous awards, including *Official Selection PAX West* and *Best in Play at GDC 2017*.
 
 <br>
-<img src="/assets/images/DragonOfLegend.jpg" alt="A screenshot of a cartoon rabbit character modelled out of voxels. They are holding up a sword against a blue sky with a chicken behind them." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
+<img src="/assets/images/DragonOfLegend_Screenshot_01.jpg" alt="A screenshot of a cartoon rabbit character modelled out of voxels. They are holding up a sword against a blue sky with a chicken behind them." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
 
 ## **Dragon of Legends, Thrive Games**
 ### Level Designer (2016)
