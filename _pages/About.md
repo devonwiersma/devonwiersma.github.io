@@ -1,21 +1,22 @@
 ---
 layout: single
 classes: wide
-title:  "About Me"
+title:  "Hey, I'm Devon!"
 permalink: /
 ---
-<img src="/assets/images/AboutMe_Photo1.jpg" alt="A photo of me eating a big cob of corn" style="width:300px;height:300px; border: 5px solid #ffffff; float:right; margin: 25px">
+<img src="/assets/images/Selfie-01.png" alt="A photo of me" style="width:400px;height:500px; border: 5px solid #ffffff; float:right; margin: 50px">
 
-<span style= "color: #ffd500ff" > As you probably figured out, I'm Devon! </span>
+<span style= "color: #ffd500ff" > </span>
 
-I'm an award-winning, **Toronto-based level designer and game developer**. I graduated from Sheridan College with a *Bachelors of Art in Game Design* and now make games for work and for play, as well as teach emerging devs how to do the same.
+I'm a **Toronto-based** *game designer* with over a decade of proven *experience*. I've *worked as a designer at studios in both indie and AAA contexts*, shipping titles such as *[Far Cry 6](https://www.ubisoft.com/en-ca/game/far-cry/far-cry-6) and [Riverbond](https://cococucumber.co/riverbond/)*. 
 
-*​English* is my native language, but I also speak fluent *Pig-Latin* as well as some essential *French*. I know how to read the Korean alphabet too (I just might not be able to tell you what it means).
+I have experience working as a *lead and a director*, coordinating and communicating design intent to deliver experiences for a target audience and developing production plans - I also *teach Collaborative Game Development at York University*! I champion *efficient production practices*, prioritizing both the target player's experience as well as advocating *the well-being of the team I work with*.
 
-In my free time I have too many hobbies to count, including (but not exclusive to): *Photography, Illustration, 3D Printing, Electronics and Streaming*!
+In addition *I have developed and shipped [five of my own games](https://store.steampowered.com/developer/devsgames) working in a solo capacity*, handling every single aspect of development from programming to art.
 
-You can Feel free to reach out and let's have a chat :)
+*​English* is my native language, but I speak fluent *Pig-Latin* as well as some core *French*. I can also read the Korean alphabet (I just might not be able to tell you what it means).
 
-Email: [devonwiersma8@gmail.com](mailto:devonwiersma8@gmail.com)
+If you see anything of interest on my site or know of a project I can help you with, **please reach out and let's have a chat**. :)
 
-Linkedin: [https://www.linkedin.com/in/devon-wiersma/](https://www.linkedin.com/in/devon-wiersma/) 
+### Email: [devonwiersma8@gmail.com](mailto:devonwiersma8@gmail.com)
+### Linkedin: [https://www.linkedin.com/in/devon-wiersma/](https://www.linkedin.com/in/devon-wiersma/) 
