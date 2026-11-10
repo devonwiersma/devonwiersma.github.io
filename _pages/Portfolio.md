@@ -4,11 +4,36 @@ title:  "Design Portfolio"
 permalink: /Portfolio
 ---
 
-<br>
-<img src="/assets/images/CatSam_Project_KeyArt.png" alt="A screenshot of a man in black and white, standing in an office in an interrogation style scene." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
+<style>
+.row {
+  display: flex;
+  flex-basis:400px;
+}
 
-# **Unannounced Title, Cat Samurai Games**
-## Game Design Director (2024 - Present)
+.column {
+  flex: 33.33%; 
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  align-items:stretch;
+  padding: 2px;
+  border: 5px solid #ffffff;
+}
+
+h1{
+    margin:2;
+}
+
+h2{
+    margin:0;
+}
+</style>
+
+
+<br>
+
+# **Game Design Director, Cat Samurai Games** 
+## 2024 - Present
 ###### [Studio Website](https://www.catsamuraigames.com/) 
 
 - *Directed the design* of a casual, cozy game at a small indie studio.
@@ -19,34 +44,67 @@ permalink: /Portfolio
 
 <br>
 
-<img src="/assets/images/Bombing02.jpg" alt="A brightly colored, cartoon-style female figure sits at a white control panel in a futuristic, minimalist room. She wears a pink and white spacesuit with a large, glowing blue dome helmet and a yellow hard hat. The room has a gray floor and a blurred, blue background. The control panel features multiple screens and buttons." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/CatSam_Project_KeyArt_01.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/CatSam_Project_KeyArt_03.png" alt="Mountains" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/CatSam_Project_KeyArt_02.png" alt="Forest" style="width:100%">
+  </div>
+</div>
 
-## **Various Projects, Dev’s Games**
-### Solo Developer (2020 - Present)
-###### [All Projects (Steam)](https://store.steampowered.com/developer/devsgames) | [All Projects (Itch.io)](https://devonwiersma.itch.io/) 
+
+<br>
+
+# **Solo Developer, Dev’s Games**
+## 2020 - Present
+###### [All Projects (Steam)](https://store.steampowered.com/developer/devsgames) | [All Projects (Itch.io)](https://devonwiersma.itch.io/)
 
 - *Self-published*, *solo developed* and shipped **six** games in both digital and non-digital formats. 
 - I manage *every aspect* of my own productions, including *design, art, and programming*.
 - Independently produced, designed, documented, marketed games in a *wide variety of genres*.
 - Ran and delivered a *successfully funded Kickstarter*.
 
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/Bombing02.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/SKRUBSquad_02.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/CentauriDark01.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 <br>
-<img src="/assets/images/YorkULogo.webp" alt="A screenshot of a man in black and white, standing in an office in an interrogation style scene." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
 
-## **Course Director, York University**
-### (2024 - Present)
+# **Course Director, York University**
+## 2024 - Present
 
 - *Presented lectures and supervised group work* for classes of ~50 students for the Collaborative Game Development course, focused on *efficient collaborative game production practices*.
 - *Consistently provided mentorship, production advice and career guidance* to emerging game developers.
 - *Taught a wide range of concepts* ranging from introductory lessons on game development fundamentals, to larger topics such as planning a game's production.
 
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/YorkU-Promo1.webp" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/YorkULogo.webp" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/YorkU-Promo2.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 <br>
 
-<img src="/assets/images/Project_SS_Image.png" alt="An image that says The Beans Team: A Video Game Company in a stylized font." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
-
-## **Cancelled Project, The Beans Team**
-### Sr. Level Designer (2021 - 2023)
+# **Sr. Level Designer, The Beans Team**
+## 2021 - 2023
 ###### [Studio Website](https://www.thebeansteam.com/) 
 
 - Designed levels in an *Unreal Engine* game in partnership with *Devolver Digital*.
@@ -54,11 +112,22 @@ permalink: /Portfolio
 - *Designed layouts*, *modelled geometry*, *designed lighting* and iterated on levels around a *unique combat mechanic*.
 - Coordinated the development of *core gameplay systems and production pipelines*.
 
-<br>
-<img src="/assets/images/FC6Screen_01.jpg" alt="A screenshot from Far Cry 6. The camera is in first person and depicts a soldier being burned by a flame thrower while standing in a field." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/Project_SS_Image_02.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/Project_SS_Image.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/Project_SS_Image_03.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
-## **Far Cry 6, Ubisoft Toronto**
-### Level Designer (2018 - 2021)
+<br>
+
+# **Mission Designer, Ubisoft Toronto**
+## 2018 - 2021
 ###### [Game Site](https://www.ubisoft.com/en-us/game/far-cry/far-cry-6) 
 
 - Designed and iterated on levels for a first-person game from *initial concept through to ship*.
@@ -66,23 +135,59 @@ permalink: /Portfolio
 - Implemented gameplay sequences and AI encounters with *proprietary visual scripting* software.
 
 <br>
-<img src="/assets/images/Riverbond_Screenshot_04.png" alt="A screenshot of a cartoon rabbit character modelled out of voxels. They are holding up a sword against a blue sky with a chicken behind them." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/FC6Screen_01.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/FC6Screen_02.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/FC6Screen_03.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
-## **Riverbond, Cococucumber**
-### Level Designer (2017)
+
+<br>
+
+# **Level Designer, Cococucumber**
+## 2017
 ###### [Game Site](https://cococucumber.co/riverbond/) 
 
 - Designed *isometric, non-linear levels* on a *multiplayer* game targetting a *casual* audience for PC and consoles.
 - Riverbond won numerous awards, including *Official Selection PAX West* and *Best in Play at GDC 2017*.
 
-<br>
-<img src="/assets/images/DragonOfLegend_Screenshot_01.jpg" alt="A screenshot of a cartoon rabbit character modelled out of voxels. They are holding up a sword against a blue sky with a chicken behind them." style="width:550px;height:350px; border: 5px solid #ffffff; float:right; margin: 25px">
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/Riverbond_Screenshot_01.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/Riverbond_Screenshot_02.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/Riverbond_Screenshot_03.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
-## **Dragon of Legends, Thrive Games**
-### Level Designer (2016)
+<br>
+
+# **Level Designer, Thrive Games**
+## 2016
 ###### [Kickstarter Page](https://www.kickstarter.com/projects/thrivegames/dol) 
 
 - Designed *tile-based levels* for a *mobile MMORPG*.
 - *Improved pipelines* to optimize the team's production process and delivery.
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/DragonOfLegend_Screenshot_01.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/DragonOfLegend.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/DragonOfLegend_Screenshot_02.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 ---
