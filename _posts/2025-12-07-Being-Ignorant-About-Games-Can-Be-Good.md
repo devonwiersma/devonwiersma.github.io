@@ -104,7 +104,7 @@ However I think in this case being wrong about your assumptions has at the *very
 Yes, you may have made a user-unfriendly mess you have to now iterate on, or made a feature that feels out of place, but in the process *you've likely pulled your game in a unique direction you may not necessarily have been implemented as such if you were designing **for** your genre, rather than challenging it*.
 
 I think this approach to building direction can be similar to the approach of blending different genres together to create something new, but I think the difference is that approach involves knowing multiple genres well and having the wherewithal and design chops to blend them conciously.
-
+ 
 However, by staying ignorant to your genre you often end up making new and unique modifications or alterations to an experience in a way that actively challenges your own assumptions unconciously - *and I think that's pretty cool*!
 
 ### An important footnote
