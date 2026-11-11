@@ -36,9 +36,8 @@ h2{
 ## 2024 - Present
 ###### [Studio Website](https://www.catsamuraigames.com/) 
 
-- *Directed the design* of a casual, cozy game at a small indie studio.
-- *Supervised and assisted junior designers* to develop their learning plans while providing feedback, accountability, and oversight of their professional development.
 - *Designed, pitched and provided direction* for features and levels from initial creative concept to completion.
+- *Supervised and assisted junior designers* to develop their learning plans while providing feedback, accountability, and oversight of their professional development.
 - *Created and maintained project timelines, team tasks and risks/priorities* to ensure the project is on time and to-quality.
 - Managed a wide range of various tasks and responsibilities as needed to *get everyone what they need to make a great game*.
 
